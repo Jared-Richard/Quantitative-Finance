@@ -1,1 +1,1 @@
-QuantitativeFinance Projects
+This is a repository of the introductory quantitative finance projects I have completed whilst self-teaching python. My resources for this have been Udemy's 'Python for Finance', Google, textbooks and YouTube.
