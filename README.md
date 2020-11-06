@@ -1,1 +1,1 @@
-# My-first-Quant-Finance-Projects
+QuantitativeFinance Projects
